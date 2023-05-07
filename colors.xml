@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimarynex">#6200EE</color>
+    <color name="colorPrimaryDarknex">#3700B3</color>
+    <color name="colorAccentnex">#03DAC5</color>
+
+    <color name="colorPrimary">#687a74</color>
+    <color name="colorPrimaryLight">#96a9a3</color>
+    <color name="colorPrimaryDark">#3d4e49</color>
+    <color name="colorAccent2">#7a3740</color>
+    <color name="colorAccent">#c7353f</color>
+
+
+    <color name="PalettecolorPrimary">#008577</color>
+    <color name="PalettecolorPrimaryDark">#00574B</color>
+    <color name="Palette1">#298472</color>
+    <color name="Palette2">#255D4B</color>
+    <color name="Palette3">#1E4838</color>
+    <color name="Palette4">#309E8C</color>
+    <color name="Palette5">#297361</color>
+    <color name="Palette6">#D2FFC7</color>
+    <color name="Palette7">#52C596</color>
+
+    <color name="OldcolorPrimary">#3F51B5</color>
+    <color name="OldcolorPrimaryDark">#303F9F</color>
+    <color name="OldcolorAccent">#FF4081</color>
+
+    <color name="colorDisable">#6f7280</color>
+</resources>
